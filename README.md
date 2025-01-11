@@ -1,4 +1,2 @@
-O sistema deve ter dois modos de acesso: um para o administrador cadastrar itens e outro para o cliente fazer pedidos (estilo sistema de totem).
-
-Requisitos técnicos:
-- Aplicar modularização, passagem por valor e referência, structs, arrays (ou vectors), escopo de variáveis.
+A project completed as part of the Algorithms II course. The system features two modes: one for the administrator to register items and another for customers to place orders. 
+##Technical requirements: apply modularization, pass-by-value and reference, structs, arrays (or vectors), and variable scope.
